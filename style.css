@@ -1,0 +1,22 @@
+h2 {
+    color: tomato;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    cursor: pointer;
+}
+
+h2:hover {
+    color: darkcyan;
+    font-style: italic;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    gap: 40px;
+}
+ol{
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 20px;
+}
